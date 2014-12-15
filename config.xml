@@ -2,7 +2,7 @@
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
 	id		= "com.applicationcraft.app7c17c19580984868a9c1542a32b6ecac"
-	version 	= "0.1.38"
+	version 	= "0.1.39"
         versionCode     = "1">
 
 	<name>BMWRFIDMobile</name>
